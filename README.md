@@ -1,0 +1,1 @@
+Debugging exercises done with AI in order to gain practice.
